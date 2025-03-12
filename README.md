@@ -1,20 +1,13 @@
 # 🎬 Netflix Clone 🎥  
 *A sleek and responsive Netflix Clone built using only HTML & CSS.*  
 
-![Netflix Clone Banner](https://via.placeholder.com/1000x400?text=Netflix+Clone) 
-
 ---
 
 ## 📸 Screenshots  
 
 ### 🏠 Homepage  
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)  
+![Home Page]([https://via.placeholder.com/800x400?text=Home+Page](https://github.com/sakshi0444/Netflix-Clone/blob/main/Screenshot%202025-03-12%20152543.png?raw=true))  
 
-### 🎞️ Movie Section  
-![Movie Section](https://via.placeholder.com/800x400?text=Movie+Section)  
-
-### 📜 Footer  
-![Footer](https://via.placeholder.com/800x400?text=Footer)  
 
 ---
 
